@@ -1,8 +1,9 @@
-# React + Vite
+# 🥷 Konoha Library 📚
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Konoha Library é uma biblioteca online dedicada ao mundo do anime Naruto. Explore descrições detalhadas de personagens, jutsus, clãs e muito mais!
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Biblioteca JavaScript para construir interfaces de usuário.
+- **Vite**: Ferramenta de build rápida e leve para desenvolvimento web.
+- **Chakra UI**: Biblioteca de componentes de interface de usuário acessíveis e personalizáveis.
